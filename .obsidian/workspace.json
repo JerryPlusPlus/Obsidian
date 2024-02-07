@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "d409cc5dba15eb83",
+    "type": "split",
+    "children": [
+      {
+        "id": "f04cb90f3992cd2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a644f9cac09983",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git和GitHub/git命令行操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "66fa5e41ba4fb62d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git和GitHub/git简介与安装.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe207d9bd9ef922",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d296e6d1b4d90d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b01ba7628481d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bfb5551ef31ceed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5552a1fb39b95596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1229c9256d5aa60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9d3756c16df935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ffa1be5aa265df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git和GitHub/git命令行操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2943e66854bfd7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git和GitHub/git命令行操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fc3eb618e2f96bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "406e0bf73ad5d078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git和GitHub/git命令行操作.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "69a644f9cac09983",
+  "lastOpenFiles": [
+    "Git和GitHub/git简介与安装.md",
+    "Git和GitHub/git命令行操作.md",
+    "images/工作区、暂存区和本地库关系图.png",
+    "Git和GitHub/git图形化界面操作.md",
+    "Tensorflow2/1.md",
+    "Git和GitHub",
+    "Tensorflow2/0 readme.md",
+    "courses/网络安全/wireshark/wireshark过滤器使用.md",
+    "Tensorflow2/报错.md",
+    "docker/1 Docker常用命令.md",
+    "courses/网络安全/期末开发课题.md",
+    "Pasted image 20240117105949.png",
+    "Pasted image 20240117104957.png",
+    "Pasted image 20240117104652.png",
+    "Pasted image 20240105212901.png",
+    "images/wireshark过滤器的使用1.png",
+    "courses/网络安全/wireshark/readme.md",
+    "courses/Hadoop/readme.md",
+    "courses/Hadoop/Yarn.md",
+    "courses/Hadoop/MapReduce.md",
+    "courses/Hadoop/HDFS.md",
+    "courses/Hadoop/hadoop本地运行.md",
+    "courses/Hadoop/源码解析.md",
+    "courses/Hadoop/生产调优手册.md",
+    "courses/网络安全/Bash编程.md",
+    "courses/网络安全/1 Secret-Key Encryption Lab.md",
+    "images/安装了Vue.js devtools，但是在chrome控制台不显示.png",
+    "images/错误用法_直接给对象添加属性.png",
+    "images/防火墙设置 1.png",
+    "images/克隆虚拟机1 1.png",
+    "courses/网络安全/wireshark",
+    "Vue/TypeScript/readme.md",
+    "Vue/Vue中的数据代理.md",
+    "Vue/TypeScript",
+    "Vue/未命名.md",
+    "Vue/ref_props.md",
+    "Vue/readme.md",
+    "Vue/ECharts的使用.md",
+    "Vue/Vue3+TS",
+    "Javascript",
+    "Deep_learning",
+    "Machine_Learning",
+    "Vue",
+    "images",
+    "docker"
+  ]
+}

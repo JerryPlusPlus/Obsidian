@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "844637e8926b4848",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde9bf7aabf26379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2b05a6114ee91a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正则表达式.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a526912e6e7d5a0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numpy_Pandas_Matplotlib/matplotlib.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d284e9cfb95129d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "633b0b76361850dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numpy_Pandas_Matplotlib/numpy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74a4b137cd0e00bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b622f998afdf561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b350406e7e2cc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "745357f2ba5c98ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e98d77f9d0ee3e56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2ff43bac46fbae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5784be8c54cfa282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8997cefe587ee55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Numpy_Pandas_Matplotlib/numpy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbeeb8ddb2e5fba7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Numpy_Pandas_Matplotlib/numpy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042c989d7a513a96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "695a12c6eae529ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Numpy_Pandas_Matplotlib/numpy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "633b0b76361850dc",
+  "lastOpenFiles": [
+    "Pasted image 20231207182456.png",
+    "Pasted image 20231207171431.png",
+    "image/numpy生成随机数.png",
+    "Numpy_Pandas_Matplotlib/matplotlib.md",
+    "python/readme.md",
+    "image/python中文乱码解决方案4.png",
+    "image/python中文乱码解决方案3.png",
+    "image/python中文乱码解决方案2.png",
+    "image/python中文乱码解决方案1.png",
+    "image/python文件编码报错信息.png",
+    "Pasted image 20231207140912.png",
+    "Pasted image 20231207130537.png",
+    "Numpy_Pandas_Matplotlib/numpy.md",
+    "python",
+    "正则表达式.md",
+    "image/matplotlib中文报错解决方式一.png",
+    "image",
+    "Numpy_Pandas_Matplotlib",
+    "Pytorch",
+    "Tensorflow"
+  ]
+}

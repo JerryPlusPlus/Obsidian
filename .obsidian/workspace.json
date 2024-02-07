@@ -34,8 +34,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e4023d7f08ad1319",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git和GitHub/注意事项.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git和GitHub/git命令行操作.md",
+                "file": "Git和GitHub/注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git和GitHub/git命令行操作.md",
+                "file": "Git和GitHub/注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git和GitHub/git命令行操作.md"
+                "file": "Git和GitHub/注意事项.md"
               }
             }
           }
@@ -162,10 +177,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "69a644f9cac09983",
+  "active": "e4023d7f08ad1319",
   "lastOpenFiles": [
-    "Git和GitHub/git简介与安装.md",
     "Git和GitHub/git命令行操作.md",
+    "Git和GitHub/git简介与安装.md",
+    "Git和GitHub/注意事项.md",
+    "images/GitHub将私有库转换为公开库.png",
     "images/工作区、暂存区和本地库关系图.png",
     "Git和GitHub/git图形化界面操作.md",
     "Tensorflow2/1.md",
@@ -193,7 +210,6 @@
     "images/安装了Vue.js devtools，但是在chrome控制台不显示.png",
     "images/错误用法_直接给对象添加属性.png",
     "images/防火墙设置 1.png",
-    "images/克隆虚拟机1 1.png",
     "courses/网络安全/wireshark",
     "Vue/TypeScript/readme.md",
     "Vue/Vue中的数据代理.md",
@@ -201,7 +217,6 @@
     "Vue/未命名.md",
     "Vue/ref_props.md",
     "Vue/readme.md",
-    "Vue/ECharts的使用.md",
     "Vue/Vue3+TS",
     "Javascript",
     "Deep_learning",

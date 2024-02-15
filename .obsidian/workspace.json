@@ -4,53 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f04cb90f3992cd2e",
+        "id": "343300db3eee77b8",
         "type": "tabs",
         "children": [
           {
-            "id": "69a644f9cac09983",
+            "id": "0581a7d28047e41f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git和GitHub/git命令行操作.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "66fa5e41ba4fb62d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git和GitHub/git简介与安装.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e4023d7f08ad1319",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git和GitHub/注意事项.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git和GitHub/注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git和GitHub/注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git和GitHub/注意事项.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,11 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e4023d7f08ad1319",
+  "active": "0581a7d28047e41f",
   "lastOpenFiles": [
+    "Git和GitHub/注意事项.md",
     "Git和GitHub/git命令行操作.md",
     "Git和GitHub/git简介与安装.md",
-    "Git和GitHub/注意事项.md",
     "images/GitHub将私有库转换为公开库.png",
     "images/工作区、暂存区和本地库关系图.png",
     "Git和GitHub/git图形化界面操作.md",

@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "c07a24efcb09ff9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef9d70ef389bde3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4935de8aa4c4ef2f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keil/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dc4c8274d2ca6a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protues/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3716c64d5febbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5f819b3c439cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81e551cacecd4e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c73b65e3ae4f4da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbea5c2cbbcb4070",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a57e9aef008d1146",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f2cb8415eda733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b84745a9c07dc33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Protues/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "973bb4f7087e2689",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Protues/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3605118e7e439f89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ede503a07db169a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Protues/readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dc4c8274d2ca6a6f",
+  "lastOpenFiles": [
+    "Keil/readme.md",
+    "Pasted image 20231206114356.png",
+    "Protues/readme.md",
+    "Pasted image 20231206110825.png",
+    "Pasted image 20231206110730.png",
+    "STM32",
+    "Pasted image 20231206103118.png",
+    "Pasted image 20231206102602.png",
+    "images/不同版本的keil.png",
+    "images",
+    "STC-ISP",
+    "51单片机",
+    "Protues",
+    "Keil"
+  ]
+}

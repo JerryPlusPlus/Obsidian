@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4b959fdfcdf3947d",
+        "id": "9779dd97b2af1892",
         "type": "tabs",
         "children": [
           {
-            "id": "a7461640bac94f6f",
+            "id": "95e51cd193674e7d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程/02 图像二值化.md",
+                "file": "C++/QT/未命名.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6d1b1edc62ec40e7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程/03 联通组件分析.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "73af912ef745e29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/Git和GitHub/git命令行操作.md",
-                "mode": "source",
-                "source": false
-              }
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -83,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -91,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "d1229c9256d5aa60",
@@ -115,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Git和GitHub/git命令行操作.md",
+                "file": "C++/QT/模态与非模态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "模态与非模态 的反向链接列表"
             }
           },
           {
@@ -132,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/Git和GitHub/git命令行操作.md",
+                "file": "C++/QT/模态与非模态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "模态与非模态 的出链列表"
             }
           },
           {
@@ -146,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -155,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/Git和GitHub/git命令行操作.md"
-              }
+                "file": "C++/QT/模态与非模态.md"
+              },
+              "icon": "lucide-list",
+              "title": "模态与非模态 的大纲"
             }
           },
           {
@@ -168,11 +154,13 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,54 +179,57 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "73af912ef745e29e",
+  "active": "95e51cd193674e7d",
   "lastOpenFiles": [
-    "work/Git和GitHub/git简介与安装.md",
-    "work/Git和GitHub/注意事项.md",
-    "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程/03 联通组件分析.md",
-    "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程/02 图像二值化.md",
-    "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程/04 轮廓分析.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/07 滚动条操作与演示-调整图像亮度.md",
-    "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程/01 课程概述.md",
-    "Pasted image 20240605102744.png",
-    "Pasted image 20240605102542.png",
-    "Pasted image 20240605094205.png",
-    "Pasted image 20240604235048.png",
-    "Pasted image 20240604234004.png",
-    "Pasted image 20240604233749.png",
-    "Pasted image 20240604224400.png",
-    "二值分割.png",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/01 OpenCV环境搭建.md",
-    "Pasted image 20240604221155.png",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/06 图像像素的算术操作.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/05 图像像素的读写操作.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/04 图像对图像的创建与赋值.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/03 图像色彩空间转换.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/02 图像读取与显示.md",
-    "work/C++/OpenCV/03_OpenCV4特征提取与DNN对象检测",
-    "work/C++/OpenCV/04_OpenCV4经典案例实战教程",
-    "work/C++/OpenCV/未命名.md",
-    "work/C++/OpenCV/02_OpenCV图像与视频分析实战教程",
-    "images/将属性表导入其他项目.png",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/09 键盘响应操作.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/31 案例：实时人脸检测.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/30 高斯双边模糊.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/29 高斯模糊.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/28 图像卷积操作.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/27 直方图均衡化.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/26 二维直方图.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/25 图像直方图.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/24 视频处理与保存.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/23 视频文件摄像头使用.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/22 图像旋转.md",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲/21 图像翻转.md",
-    "work/C++/Doxygen注释",
-    "work/C++/OpenCV/01_OpenCV4C++快速入门30讲",
-    "work/C++/OpenCV",
-    "work/C++",
-    "work/Git和GitHub/SSH",
-    "teach/数据结构",
-    "teach",
+    "C++/QT/模态与非模态.md",
+    "C++/QT/未命名.md",
+    "images/字体对话框.png",
+    "images/模态与非模态_向导对话框.png",
+    "images/模态与非模态_错误对话框.png",
+    "images/模态与非模态_进度对话框.png",
+    "images/模态与非模态_问题对话框.png",
+    "images/模态与非模态_输入对话框.png",
+    "images/模态与非模态_文件对话框.png",
+    "images/模态与非模态_颜色对话框.png",
+    "images/模态与非模态案例图1.png",
+    "C++/QT/第01章 QT入门.md",
+    "C++/QT/第02章 QT常用控件的使用与界面布局详解.md",
+    "VIsual Studio/vcpkg.md",
+    "VIsual Studio/sqlite3.md",
+    "images/sqlite3_4.png",
+    "thesis/Latex/latex基础.md",
+    "VIsual Studio/配置sqlit3",
+    "thesis/Latex/Latex安装.md",
+    "thesis/期刊.md",
+    "thesis/文献阅读.md",
+    "thesis/ChatGLM+Langchain构建本地知识库.md",
+    "Huggingface/transformers/1、开始使用/3、安装.md",
+    "Huggingface/transformers/1、开始使用/2、快速上手.md",
+    "Huggingface/transformers/1、开始使用/1、🤗 Transformers简介.md",
+    "C++/QT/第03章 无边框窗口.md",
+    "Git和GitHub/github的使用.md",
+    "Git和GitHub/IDE插件或扩展Git.md",
+    "Git和GitHub/git命令行操作.md",
+    "Git和GitHub/git简介与安装.md",
+    "thesis/论文选题.md",
+    "thesis/开题报告.md",
+    "().md",
+    "C++/QT/第10章 Qt其他技巧.md",
+    "C++/QT/第05章 Web混合编程.md",
+    "C++/QT/第08章 QT绘图技术与图形视图.md",
+    "C++/QT/第04章 qt style sheet.md",
+    "C++/QT/第02章 QT常用控件的使用与界面布局详解",
+    "thesis/Latex",
+    "Huggingface/Datasets",
+    "Huggingface",
+    "汇编/8086cpu",
+    "汇编/x86",
+    "汇编/未命名.canvas",
+    "汇编/x64",
+    "分布式",
+    "Machine_Deep_Learning/DeepLearning",
+    "thesis/transformers/5、性能和可扩展性/未命名.canvas",
+    "thesis/transformers/未命名.canvas",
     "未命名.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-## 本地库初始化
+git## 本地库初始化
 
 1. `git init`，初始化当前目录，成为git仓库
 ```bash
@@ -61,6 +61,7 @@ $ cat ~/.gitconfig
         directory = D:/
 directory = D:/: 这是你设置的安全目录。在 Git 中，当你进行某些敏感操作时（如添加文件），如果文件位于这个目录下，Git 将不会执行对该目录的检查，以防止误报或其他问题。
 ```
+![[git config的三种级别.png]]
 `git status`：查看仓库状态
 ```bash
 PS F:\Git_test> git status

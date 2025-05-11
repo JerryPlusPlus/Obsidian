@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/QT/源和执行字符集.md",
+                "file": "Git和GitHub/git命令行操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "源和执行字符集"
+              "title": "git命令行操作"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "d1229c9256d5aa60",
@@ -200,6 +199,12 @@
   },
   "active": "e564776c0a932362",
   "lastOpenFiles": [
+    "Git和GitHub/git简介与安装.md",
+    "Git和GitHub/git命令行操作.md",
+    "Git和GitHub/github的使用.md",
+    "Git和GitHub/git图形化界面操作.md",
+    "Git和GitHub/注意事项.md",
+    "C++/QT/源和执行字符集.md",
     "C++/QT/未命名.md",
     "C++/QT/Qt样式优先级.md",
     "qt样式优先级.png",
@@ -230,14 +235,9 @@
     "C++/QT/第05章 Web混合编程.md",
     "C++/QT/第04章 qt style sheet.md",
     "C++/QT/第03章 无边框窗口.md",
-    "C++/QT/第02章 QT常用控件的使用与界面布局详解.md",
-    "C++/QT/应用程序添加图标.md",
-    "VIsual Studio/VS 创建代码片段.md",
     "导入代码片段操作.png",
     "导入的Viusal C++代码片段保存位置.png",
     "代码片段选项卡.png",
-    "VIsual Studio/怎么在visual studio中使用相对路径.md",
-    "VIsual Studio/怎么在visual studio中使用python.md",
     "C++/CMake/makefile",
     "Linux/常用命令",
     "WEB_full_stack/nodejs",

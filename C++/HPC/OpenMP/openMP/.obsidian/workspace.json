@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "304bb5e69a24d10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a347b0ee432a34f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7d53ec316dd221",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "daed36182610a806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中山大学团日活动⑩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cada6f211a57b83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dcdddd89dc0e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec7882d8d23a2428",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0e4850a59f2d891",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "992efa6f52047324",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c988a3803ac0efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab37fd081d3d8ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee656baf3d9c9d61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中山大学团日活动⑩.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b676cf66b5058d94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中山大学团日活动⑩.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcd08ff989c0e7ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e65b14ff74e15efc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中山大学团日活动⑩.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "daed36182610a806",
+  "lastOpenFiles": [
+    "0 readme.md",
+    "images/解决了上述两个问题会报出一个警告.png",
+    "images/在visual studio中支持OpenMP.png",
+    "images/visual studio中向main函数传入参数.png",
+    "images",
+    "中山大学团日活动⑩.md",
+    "Pasted image 20231218135937.png",
+    "Pasted image 20231218131842.png",
+    "Pasted image 20231218131608.png",
+    "Pasted image 20231218102917.png",
+    "Pasted image 20231218102428.png"
+  ]
+}

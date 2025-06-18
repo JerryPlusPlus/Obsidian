@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "d409cc5dba15eb83",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72d6afc98aec7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14bc9e8aadb52242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git和GitHub/git命令行操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git命令行操作"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe207d9bd9ef922",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d296e6d1b4d90d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd580afc6ac4c8a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3bfb5551ef31ceed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5552a1fb39b95596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "d1229c9256d5aa60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9d3756c16df935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ffa1be5aa265df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/QT/模态与非模态.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "模态与非模态 的反向链接列表"
+            }
+          },
+          {
+            "id": "e2943e66854bfd7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/QT/模态与非模态.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "模态与非模态 的出链列表"
+            }
+          },
+          {
+            "id": "9fc3eb618e2f96bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "406e0bf73ad5d078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/23种设计模式/8大设计原则和23种设计模式.md"
+              },
+              "icon": "lucide-list",
+              "title": "8大设计原则和23种设计模式 的大纲"
+            }
+          },
+          {
+            "id": "4506c9f0b05ba7aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "14bc9e8aadb52242",
+  "lastOpenFiles": [
+    "Git和GitHub/注意事项.md",
+    "Git和GitHub/git命令行操作.md",
+    "Git和GitHub/git简介与安装.md",
+    "Git和GitHub/git图形化界面操作.md",
+    "Git和GitHub/github的使用.md",
+    "WEB_full_stack/Javascript/JavaScript模块化.md",
+    "WEB_full_stack/Javascript/数组和对象的方法.md",
+    "WEB_full_stack/前端工具.md",
+    "Pasted image 20250618043336.png",
+    "WEB_full_stack/React/关于语法的省略规则.md",
+    "WEB_full_stack/React/8、Diffing算法.md",
+    "WEB_full_stack/React/7、组件生命周期.md",
+    "WEB_full_stack/React/6、组件三大核心属性.md",
+    "C++/Boost/asio/IP地址不是同一个子网的电脑间进行通信.md",
+    "WEB_full_stack/React/React路由.md",
+    "Windows/Windows屏幕画笔工具.md",
+    "Pasted image 20250609084444.png",
+    "Pasted image 20250609083059.png",
+    "Pasted image 20250609082731.png",
+    "WEB_full_stack/VITE/未命名.md",
+    "WEB_full_stack/VITE",
+    "image_unname/Pasted image 20250530022629.png",
+    "C++/QT/Qt中的坑.md",
+    "image_unname/Pasted image 20250605124109.png",
+    "C++/QT/错误.md",
+    "C++/OpenCV/01_OpenCV4C++快速入门30讲/01 OpenCV环境搭建.md",
+    "image_unname/Pasted image 20250604195758.png",
+    "image_unname/Pasted image 20250604195620.png",
+    "image_unname/Pasted image 20250604195603.png",
+    "image_unname/Pasted image 20250604185021.png",
+    "VIsual Studio/vcpkg安装.md",
+    "C++/QT/XML数据传输格式.md",
+    "C++/QT/第10章 Qt其他技巧.md",
+    "C++/QT/第08章 QT绘图技术与图形视图.md",
+    "C++/QT/第04章 qt style sheet.md",
+    "C++/QT/第03章 无边框窗口.md",
+    "C++/QT/第02章 QT常用控件的使用与界面布局详解.md",
+    "Windows",
+    "C++/Boost/asio",
+    "C++/Boost",
+    "Win11",
+    "C++/QT/GUI控件",
+    "C++/C++StandardLibrary",
+    "C++/CMake/makefile",
+    "Linux/常用命令",
+    "WEB_full_stack/nodejs",
+    "汇编/未命名.canvas",
+    "thesis/transformers/5、性能和可扩展性/未命名.canvas",
+    "thesis/transformers/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

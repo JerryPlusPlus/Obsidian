@@ -1,12 +1,14 @@
-- QMetaObject::methodCount() 只统计通过 Qt 的元对象编译器（moc）注册的方法。
-- QMetaMethod的tag方法使用
-- Q_TAG不建议使用
-- Q_PROPERTY设置属性代码片段中的`()`和`[]`应该怎么理解
-- 什么是像素比`Device Pixel Ration,DPR`
-- QWidget::paintEngine: Should no longer be called w.paintEngine():  0x0
-- 设置属性时，没有设置DESIGNABLE，默认值为true，但是仍然没有在qt design中显示
-- QLabel的openExternalLinks属性
-- QWidget::grabKeyboard()在qt 帮助文档中的解释
+1.  QMetaObject::methodCount() 只统计通过 Qt 的元对象编译器（moc）注册的方法。
+2. QMetaMethod的tag方法使用
+3. Q_TAG不建议使用
+4. Q_PROPERTY设置属性代码片段中的`()`和`[]`应该怎么理解
+5. 什么是像素比`Device Pixel Ration,DPR`
+6. QWidget::paintEngine: Should no longer be called w.paintEngine():  0x0
+7. 设置属性时，没有设置DESIGNABLE，默认值为true，但是仍然没有在qt design中显示
+8. QLabel的openExternalLinks属性
+9. QWidget::grabKeyboard()在qt 帮助文档中的解释
+10. QWindowsNativeFileDialogBase::setMode: SetOptions() failed (操作成功完成。)
+11.  setFileMode(QFileDialog::Directory)、QFileDialog::currentUrlChanged
 
 #### QMetaObject::methodCount() 只统计通过 Qt 的元对象编译器（moc）注册的方法。
 
@@ -320,4 +322,39 @@ C 调用 grabKeyboard()；
 
 调用 releaseKeyboard() 后，B 才能开始接收键盘输入。
 ```
+
+#### QWindowsNativeFileDialogBase::setMode: SetOptions() failed (操作成功完成。)
+
+
+![[Pasted image 20250621202054.png]]
+
+解释
+•	QWindowsNativeFileDialogBase::setMode: SetOptions() failed
+这是 Qt 在尝试设置 Windows 原生文件对话框的某些选项时，内部检测到设置失败，输出的调试信息。
+•	(操作成功完成。)
+这是 Windows API 返回的错误信息，实际上是 ERROR_SUCCESS，即“操作成功完成”。这意味着虽然 Qt 检测到“设置失败”，但底层 Windows API 实际上并没有报错。
+
+
+为什么会出现？
+•	你调用了 fileDialog->setFileMode(QFileDialog::Directory);，并且没有启用 DontUseNativeDialog，即你在用系统原生的文件对话框。
+•	Windows 原生文件对话框对某些模式（如只选目录）支持有限，Qt 尝试设置时可能会遇到兼容性问题。
+•	Qt 内部尝试设置某些选项，发现设置没有生效，但底层 API 返回“操作成功完成”，于是输出了这条信息。
+
+**切换到 Qt 自带的对话框以避免此类兼容性问题。**
+
+```C++
+
+  fileDialog->setOption(QFileDialog::DontUseNativeDialog, true);
+  
+```
+
+
+## 11. setFileMode(QFileDialog::Directory)、QFileDialog::currentUrlChanged 
+
+
+![[Pasted image 20250621203912.png]]
+
+当文件对话框设置为：`fileDialog->setOption(QFileDialog::DontUseNativeDialog, true);`时。使用Qt自带的对话框，则点击切换文件时不会产生currentUrlChanged信号；使用native对话框时，点击切换文件会产生currentUrlChanged信号
+
+![[Pasted image 20250621213607.png]]
 
